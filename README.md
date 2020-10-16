@@ -1,4 +1,4 @@
-# Blogy - *GMR's Tech Blog*
+# Blogy - *Renusri's Tech Blog*
 :link: [Live Running App Link](http://gmr.pythonanywhere.com/)
 
 ### Technologies Used In This Application :
